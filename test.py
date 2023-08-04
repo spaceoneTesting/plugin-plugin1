@@ -11,8 +11,19 @@ class Person:
 
 
 
+
+
+
+
+
+
     def __del__(self):
         print(f'Object is being deconstructed!')
+
+
+
+
+
 
 
 
